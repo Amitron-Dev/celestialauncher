@@ -17,7 +17,7 @@
     "username": "Pseudo",
     "password": "Mot de passe",
     "forgot_password": "Mot de passe oublié ?",
-    "no_account": "Pas de compte ?",
+    "no_account": "Se crée un compte",
     "add_account": "Ajouter un compte",
     "web_login": "Connexion Web",
     "2fa_enabled": "Vous avez l'A2F d'activé sur votre compte !",
